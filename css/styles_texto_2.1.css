@@ -1,0 +1,25 @@
+body {
+  font-family: Arial, Verdana, sans-serif;
+}
+
+h1 {
+    font-family: Georgia;
+    font-size: 32px;
+    text-transform: uppercase;
+  }
+
+h2 {
+    font-family: Georgia;
+    font-size: 24px;
+    text-transform: uppercase;
+	  font-style: italic;
+  }
+
+li {
+  font-weight: bold;
+  }
+
+
+strong {
+    font-weight: normal;
+  }
